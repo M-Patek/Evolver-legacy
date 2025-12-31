@@ -1,0 +1,5 @@
+// src/dsl/mod.rs
+pub mod schema;
+pub mod parser;
+pub mod stp_bridge;
+pub mod math_kernel;
